@@ -1,0 +1,5 @@
+Invoice ID,Branch,City,Customer type,Customer Name,Gender,Product line,Unit price,Quantity,Tax 5%,Total,Date,Time,Payment,cogs,gross margin percentage,Gross income,Rating
+INV-1001,Downtown,Toronto,Member,Olivia Smith,Female,Health & Wellness,20,2,2,42,2023-01-10,10:00,Credit Card,40,0,40,8.5
+INV-1002,Uptown,Chicago,Regular,Liam Brown,Male,Home & Lifestyle,15,4,3,63,2023-01-10,12:00,Cash,60,0,60,7.0
+INV-1003,Suburban,Vancouver,Member,Emma Davis,Female,Food & Beverages,30,1,1.5,31.5,2023-02-05,09:30,Mobile Wallet,30,0,30,9.2
+INV-1004,Downtown,Toronto,Regular,Noah Wilson,Male,Electronics Accessories,50,1,2.5,52.5,2023-02-15,14:15,Credit Card,50,0,50,8.0
